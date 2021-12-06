@@ -1,0 +1,12 @@
+D:\OLLZN\LearnCSharp\DependencyInjection\DependencyInjectionDemo\DemoLibrary\bin\Debug\net6.0\DemoLibrary.deps.json
+D:\OLLZN\LearnCSharp\DependencyInjection\DependencyInjectionDemo\DemoLibrary\bin\Debug\net6.0\DemoLibrary.dll
+D:\OLLZN\LearnCSharp\DependencyInjection\DependencyInjectionDemo\DemoLibrary\bin\Debug\net6.0\ref\DemoLibrary.dll
+D:\OLLZN\LearnCSharp\DependencyInjection\DependencyInjectionDemo\DemoLibrary\bin\Debug\net6.0\DemoLibrary.pdb
+D:\OLLZN\LearnCSharp\DependencyInjection\DependencyInjectionDemo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.csproj.AssemblyReference.cache
+D:\OLLZN\LearnCSharp\DependencyInjection\DependencyInjectionDemo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\OLLZN\LearnCSharp\DependencyInjection\DependencyInjectionDemo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.AssemblyInfoInputs.cache
+D:\OLLZN\LearnCSharp\DependencyInjection\DependencyInjectionDemo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.AssemblyInfo.cs
+D:\OLLZN\LearnCSharp\DependencyInjection\DependencyInjectionDemo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.csproj.CoreCompileInputs.cache
+D:\OLLZN\LearnCSharp\DependencyInjection\DependencyInjectionDemo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.dll
+D:\OLLZN\LearnCSharp\DependencyInjection\DependencyInjectionDemo\DemoLibrary\obj\Debug\net6.0\ref\DemoLibrary.dll
+D:\OLLZN\LearnCSharp\DependencyInjection\DependencyInjectionDemo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.pdb
