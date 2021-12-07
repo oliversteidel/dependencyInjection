@@ -36,7 +36,5 @@ namespace DemoLibrary
             Console.WriteLine(); // this is different from "BetterBusinessLogig.cs
             _logger.Log("Finished processing of the data.");
         }
-
-        // this is a test to understand git :-)
     }
 }
