@@ -1,7 +1,13 @@
-﻿using DemoLibrary;
+﻿using Autofac;
+using ConsoleUI;
+using DemoLibrary;
 
-BusinessLogic businessLogic = new BusinessLogic();
+var container = ContainerConfig.Configure();
 
-businessLogic.ProcessData();
+using (var scope = container.BeginLifetimeScope())
+{
+    var app = scope.Resolve<IApplication>();
+    app.Run();
+}
 
 Console.ReadLine();

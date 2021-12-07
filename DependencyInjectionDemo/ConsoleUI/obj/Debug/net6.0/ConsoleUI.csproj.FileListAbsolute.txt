@@ -16,3 +16,4 @@ D:\OLLZN\LearnCSharp\DependencyInjection\DependencyInjectionDemo\ConsoleUI\obj\D
 D:\OLLZN\LearnCSharp\DependencyInjection\DependencyInjectionDemo\ConsoleUI\obj\Debug\net6.0\ref\ConsoleUI.dll
 D:\OLLZN\LearnCSharp\DependencyInjection\DependencyInjectionDemo\ConsoleUI\obj\Debug\net6.0\ConsoleUI.pdb
 D:\OLLZN\LearnCSharp\DependencyInjection\DependencyInjectionDemo\ConsoleUI\obj\Debug\net6.0\ConsoleUI.genruntimeconfig.cache
+D:\OLLZN\LearnCSharp\DependencyInjection\DependencyInjectionDemo\ConsoleUI\bin\Debug\net6.0\Autofac.dll
